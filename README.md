@@ -39,6 +39,21 @@ Our approach involves a series of carefully orchestrated steps:
 
 5. **Evaluation and Insights:** The trained model's performance was evaluated on the test set, yielding remarkable accuracy rates of 95.18% for architectural category classification and 91.57% for landmark identification. The results underscored the effectiveness of our chosen approach.
 
+## Results
+
+Our trained model achieved an accuracy of 98.18% in architectural category classification and 91.57% accuracy in landmark identification. These results showcase the potential of transfer learning and VGG16 architecture for accurate image classification.
+
+### Accuracy Visualizations
+
+#### Category Classification
+
+![Category Classification Accuracy](/images/category_accuracy.png)
+
+#### Landmark Identification
+
+![Landmark Identification Accuracy](/images/land_accuracy.png)
+
+
 ## Next Steps
 
 While our project has yielded promising results, there is ample room for further exploration and improvement:
